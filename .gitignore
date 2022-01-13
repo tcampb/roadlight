@@ -1,0 +1,4 @@
+node_modules
+device_service_test_server
+.DS_STORE
+dist

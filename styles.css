@@ -1,0 +1,14 @@
+/* styles.css */
+
+/* Add styles here to customize the appearance of your app */
+
+.input-label {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.checkbox-label {
+  font-size: 14px;
+  font-weight: bold;
+  color: black;
+}
